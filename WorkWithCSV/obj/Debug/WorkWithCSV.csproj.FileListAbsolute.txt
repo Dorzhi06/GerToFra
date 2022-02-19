@@ -1,0 +1,17 @@
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\bin\Debug\WorkWithCSV.exe.config
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\bin\Debug\WorkWithCSV.exe
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\bin\Debug\WorkWithCSV.pdb
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.csproj.SuggestedBindingRedirects.cache
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\MainWindow.g.cs
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\App.g.cs
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV_MarkupCompile.cache
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV_MarkupCompile.lref
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\MainWindow.baml
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.g.resources
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.Properties.Resources.resources
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.csproj.GenerateResource.cache
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.csproj.CoreCompileInputs.cache
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.exe
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.pdb
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\App.baml
+C:\Users\dorzh\source\repos\WorkWithCSV\WorkWithCSV\obj\Debug\WorkWithCSV.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b20c3157-1b9c-4160-acfc-a370c3f11aa3": {
+      "ProjectGuid": "b20c3157-1b9c-4160-acfc-a370c3f11aa3",
+      "DisplayName": "WorkWithCSV",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
